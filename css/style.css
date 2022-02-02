@@ -1778,6 +1778,19 @@ margin: 0 auto;
 
 }
 
+.title h3 {
+    padding: 35px 0px 6px 0px;
+text-transform: uppercase;
+font-weight: 500;
+color: #052501;
+line-height: 46px;
+border-bottom: #052501 solid 1px;
+font-size: 50px;
+max-width: 374px;
+width: 100%;
+margin: auto;
+
+}
 
 
 
@@ -2179,7 +2192,7 @@ margin-top: 4px;
 }
  .address  h3 {
 color: #fff;
-font-size: 29px;
+font-size: 20px;
 font-weight: 500;
 padding-top: 15px;
 padding-bottom: 3px;
